@@ -1,0 +1,7 @@
+[package]
+name = "Adventure Game"
+version = "1.0"
+
+[[binaries]]
+name = "adventure_game"
+path = "main.py"

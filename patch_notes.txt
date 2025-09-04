@@ -1,0 +1,62 @@
+PATCH NOTES:
+
+PHASE 0: >> DONE
+::1 make tilemap, world map with sprites
+::2 make player, player animations, player attack using basic keys
+::3 make the screen dynamic according to PLAYER_SPEED
+::4 make basic enemies, enemy animations and multiple enemy spawning
+::5 make basic intro and outro menus
+::6 check and make collision sprites
+::7 player does not move when hit soild objects and camera stops
+
+PHASE 1: >> DONE
+::1 make inventory, inventory opening and data storage in inventory using nested lists
+::2 make inventory selection
+::3 make chests, chest opening and data storage in chest
+::4 chest loot contains food
+::5 randomization of loot spawing in chests
+::6 make working health bar and food bar
+::7 change tilesize 
+::8 making working saturation bar
+::9 eating food makes food bar and saturation bar regen
+::10 saturation bar regen makes health bar regen
+
+PHASE 2: >> DONE
+::1 add str inventory and chest above the grids
+::2 modify the intro screen background and add titlecard
+::3 add play, settings, quit and other buttons
+::4 modify the outro screen background
+::5 add restart, quit and other buttons
+::6 make a settings panel, fill it and make a loading screen
+::7 integrate settings, loading, intro, outro screens
+::8 make a logo image and text
+
+PHASE 3: >> DONE
+::1 change tilemap to a working map
+::2 make a border around up and left with dense spruce forests
+::3 make the forest look natural
+::4 make a wall for the city with different fences
+::5 make a central water fountain or a main sqaure with a statue where the main things go around
+::6 make different types of road that goes around the square and forms streets
+::7 spawn in different types of buildings that go around the main streets
+::8 add details with miscallaneous items - baskets, trees etc...
+::9 add stairs leading to city
+
+PHASE 4:
+::1 farming areas around the city making villages
+::2 mulitple paddy fields in farming areas
+::3 village houses and fences surrounded by fields
+::4 village dirt road connecting different places
+::5 army camps to defend the village across the map
+6 path to mines -- experimental
+::6 brick walls near camps, camp supplies
+
+PHASE 5:
+::1 added different materials in inventory and chests
+::2 added wood, potions = health, poison, lettuce, empty
+::3 added raw ores -> iron - brown, mythril - blue, adamantite - green, amethyst - purple
+::4 addes gem and block variants of the ores
+5 
+
+make multiple non playable characters
+non playable characters interact with player
